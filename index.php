@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Student information system</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
 <body>
@@ -20,7 +20,7 @@
 			<h1>Rutine Management System</h1>
 		</div>
 		<div class="button">
-			<a href="#" class="btn">Student login</a>
+			<a href="page.php" class="btn">Student login</a>
 			<a href="login.php" class="btn">Admin login</a>
 			
 		</div>
